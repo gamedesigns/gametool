@@ -1,0 +1,32 @@
+{
+    "enemies": [
+        {
+            "name": "Bacterium",
+            "health": 100,
+            "attack_damage": 10,
+            "attack_speed": 1,
+            "defense": 5  
+        },
+        {
+            "name": "Virus",
+            "health": 50,
+            "attack_damage": 5,
+            "attack_speed": 2,
+            "defense": 2 
+        },
+        {
+            "name": "Immune Cell",
+            "health": 150,
+            "attack_damage": 15,
+            "attack_speed": 1,
+            "defense": 10  
+        },
+        {
+            "name": "Toxin Molecule",
+            "health": 75,
+            "attack_damage": 20,
+            "attack_speed": 1.5,
+            "defense": 8  
+        }
+    ]
+}
