@@ -1,17 +1,17 @@
 {
     "equipment": [
         {
-            "name": "Iron Sword",
+            "name": "Expansor",
             "type": "Weapon",
             "bonus_attack_damage": 10
         },
         {
-            "name": "Leather Armor",
+            "name": "Cellular Armor",
             "type": "Armor",
             "bonus_defense": 5
         },
         {
-            "name": "Speed Amulet",
+            "name": "Speed Mutation",
             "type": "Accessory",
             "bonus_attack_speed": 0.5
         }
